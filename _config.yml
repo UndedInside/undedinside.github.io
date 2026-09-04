@@ -42,6 +42,7 @@ collections:
     output: true
     permalink: /blog/:name
 
+timezone: Europe/London
 future: true
 
 # Exclude from processing.
