@@ -38,6 +38,10 @@ collections:
   tutorials:
     output: true
     permalink: /tutorials/:name
+  blog:
+    output: true
+    permalink: /blog/:name
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -57,4 +61,3 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
