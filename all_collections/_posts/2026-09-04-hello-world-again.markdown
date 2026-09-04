@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Hello World! Again!"
-date: 2026-09-04 17:22:00 +0000
+title:  "Hello World! Again!"
+date:   2026-09-04 17:22:00 +0000
 categories: blog
+published: true
 ---
 Okay, for real this time...
 
-#Hello, World!
+# Hello, World!
 
 Admittedly I forgot I even had this project, but after some fiddling around with Ruby, Jekyll, installing and uninstalling Gems, and even breaking my OS, we're back!
 
