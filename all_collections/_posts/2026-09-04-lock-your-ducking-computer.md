@@ -3,6 +3,7 @@ layout: post
 title: "Lock Your Ducking Computer!"
 date: 2026-09-04 21:14:00 +0000
 categories: blog
+hook: "Adventures in DuckyScript"
 ---
 I knew I wanted to be a hacker since I first laid my eyes on [hak5.](https://hak5.org) Specifically it was the WiFi Pineapple that stole my heart but, as a broke teen, the only thing I could afford was the Rubber Ducky.
 

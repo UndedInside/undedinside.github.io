@@ -3,6 +3,7 @@ layout: post
 title: "Luhn Algorithm Calculator"
 date: 2026-09-04 18:35:00 +0000
 categories: blog
+hook: "Writing a Luhn algorithm calculator, and finding a neat bug along the way"
 ---
 (This project was originally completed 2021-09-19)
 

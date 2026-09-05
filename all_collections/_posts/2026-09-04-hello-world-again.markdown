@@ -4,6 +4,7 @@ title:  "Hello World! Again!"
 date:   2026-09-04 17:22:00 +0000
 categories: blog
 published: true
+hook: "Okay, the first blog post for real this time"
 ---
 Okay, for real this time...
 
